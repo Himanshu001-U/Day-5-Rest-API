@@ -1,0 +1,16 @@
+{
+  "name": "day-5-image-rest-api",
+  "version": "1.0.0",
+  "description": "Image Rest API",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Himanshu Upadhayay",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.7.5",
+    "express": "^4.19.2"
+  }
+}
